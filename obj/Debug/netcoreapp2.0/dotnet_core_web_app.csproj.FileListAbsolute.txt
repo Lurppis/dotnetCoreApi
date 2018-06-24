@@ -1,0 +1,11 @@
+C:\Users\marci\Desktop\dotnet_core_web_app\bin\Debug\netcoreapp2.0\dotnet_core_web_app.deps.json
+C:\Users\marci\Desktop\dotnet_core_web_app\bin\Debug\netcoreapp2.0\dotnet_core_web_app.runtimeconfig.json
+C:\Users\marci\Desktop\dotnet_core_web_app\bin\Debug\netcoreapp2.0\dotnet_core_web_app.runtimeconfig.dev.json
+C:\Users\marci\Desktop\dotnet_core_web_app\bin\Debug\netcoreapp2.0\dotnet_core_web_app.dll
+C:\Users\marci\Desktop\dotnet_core_web_app\bin\Debug\netcoreapp2.0\dotnet_core_web_app.pdb
+C:\Users\marci\Desktop\dotnet_core_web_app\obj\Debug\netcoreapp2.0\dotnet_core_web_app.csprojAssemblyReference.cache
+C:\Users\marci\Desktop\dotnet_core_web_app\obj\Debug\netcoreapp2.0\dotnet_core_web_app.csproj.CoreCompileInputs.cache
+C:\Users\marci\Desktop\dotnet_core_web_app\obj\Debug\netcoreapp2.0\dotnet_core_web_app.AssemblyInfoInputs.cache
+C:\Users\marci\Desktop\dotnet_core_web_app\obj\Debug\netcoreapp2.0\dotnet_core_web_app.AssemblyInfo.cs
+C:\Users\marci\Desktop\dotnet_core_web_app\obj\Debug\netcoreapp2.0\dotnet_core_web_app.dll
+C:\Users\marci\Desktop\dotnet_core_web_app\obj\Debug\netcoreapp2.0\dotnet_core_web_app.pdb
